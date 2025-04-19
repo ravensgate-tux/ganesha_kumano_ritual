@@ -35,7 +35,7 @@ This ritual is designed for the journey to Kumano Sanzan (three grand shrines of
 
 ## 🔻 Card Layout: Windmill Formation (Right-Rotation)
 
-Instead of the traditional triangle + center layout, the cards are placed in a **windmill-like spiral formation**, rotating clockwise from the top. This format:
+Instead of using the layout described in Tarot Talismans by Chic Cicero & Sandra Tabatha Cicero (which features a triangle with a central card), this ritual arranges the cards in a windmill-like spiral formation, rotating clockwise from the top.
 
 - **Highlights the main intention (Card 1)** at the top
 - **Allows subtle presence** of the other 3 cards
@@ -62,6 +62,11 @@ Instead of the traditional triangle + center layout, the cards are placed in a *
 
 ---
 
+### References
+
+- Chic Cicero & Sandra Tabatha Cicero, *Tarot Talismans: Invoke the Angels of the Tarot*, Llewellyn Publications, 2003.
+
+---
 ## 📜 Notes
 
 This ritual remains intentionally in English to maintain symbolic clarity and avoid misinterpretation. It is a private ritual but may be shared with trusted practitioners.
