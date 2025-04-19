@@ -24,10 +24,12 @@ This ritual is designed for the journey to Kumano Sanzan (three grand shrines of
 | 3        | Progress (Integration) | Two of Wands     | Dialogue & collaboration between Western magic and Japanese kami          |
 | 4        | Outcome (Growth)    | The Magician       | Presenting oneself as a magician, empowered by the ritual                 |
 
-<img src="1_fool.jpg" width="100">
-<img src="2_cups-queen.jpg" width="100">
-<img src="3_wand-2.jpg" width="100">
-<img src="4_magician.jpg" width="100">
+<div style="display: flex; gap: 10px;">
+  <img src="1_fool.jpg" width="100">
+  <img src="2_cups-queen.jpg" width="100">
+  <img src="3_wand-2.jpg" width="100">
+  <img src="4_magician.jpg" width="100">
+</div>
 
 ---
 
