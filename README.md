@@ -25,10 +25,10 @@ This ritual is designed for the journey to Kumano Sanzan (three grand shrines of
 | 4        | Outcome (Growth)    | The Magician       | Presenting oneself as a magician, empowered by the ritual                 |
 
 <div style="display: flex; gap: 10px;">
-  <img src="1_fool.jpg" width="100">
-  <img src="2_cups-queen.jpg" width="100">
-  <img src="3_wand-2.jpg" width="100">
-  <img src="4_magician.jpg" width="100">
+  <img src="1_fool.jpg" width="200">
+  <img src="2_cups-queen.jpg" width="200">
+  <img src="3_wand-2.jpg" width="200">
+  <img src="4_magician.jpg" width="200">
 </div>
 
 ---
